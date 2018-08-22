@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DarkoPendragon/discord.js-musicbot-addon"
+    "url": "https://github.com/JustPiXeLL/musicbot-discord"
   },
   "bugs": {
-    "url": "https://github.com/DarkoPendragon/discord.js-musicbot-addon/issues"
+    "url": "https://github.com/JustPiXeLL/musicbot-discord/issues"
   },
-  "homepage": "https://github.com/DarkoPendragon/discord.js-musicbot-addon",
+  "homepage": "https://github.com/JustPiXeLL/musicbot-discord",
   "keywords": [
     "discord",
     "discord.js",
@@ -28,6 +28,6 @@
     "addon",
     "plugin"
   ],
-  "author": "demisex",
+  "author": "Just PiXeLL",
   "license": "ISC"
 }
